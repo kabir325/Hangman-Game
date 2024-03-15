@@ -19,7 +19,7 @@ Screenshot3
 - The maximum word and hint length is set to 50 characters
 - The maximum number of points is set to 100 per round
 
-> [!NOTE}
+> [!NOTE]
 > All the limitations can be changed in the define section of the code
 
 > [!NOTE]
