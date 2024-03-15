@@ -2,7 +2,7 @@
 
 This is a terminal based implementation of Hangman game.
 
-![Alt Text] (https://github.com/kabir325/Hangman-Game/blob/main/images/img1.png)
+![alt text] (https://github.com/kabir325/Hangman-Game/blob/main/images/img1.png)
 
 > [!NOTE]
 > The words can be changed in the code in the function void random_W(word **G)
